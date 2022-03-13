@@ -1,5 +1,9 @@
 # Chaintify
 
+Init this repo in a pre-configured environment by [clicking here](https://gitpod.io/#https://github.com/pumasteam/chaintify).
+
+Read the API Documentation by [clicking here](https://chaintify.co/docs).
+
 ## Getting Started
 
 Add the environment variable described in the `.env.example` file.

@@ -1,0 +1,16 @@
+
+tasks:
+  - init: yarn install && yarn run build
+    command: yarn run start
+
+
+
+vscode:
+  extensions:
+    - bradlc.vscode-tailwindcss
+    - esbenp.prettier-vscode
+    - PKief.material-icon-theme
+    - wix.vscode-import-cost
+    - dbaeumer.vscode-eslint
+    - usernamehw.errorlens
+    - Prisma.prisma
