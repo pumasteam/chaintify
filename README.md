@@ -4,6 +4,13 @@ Init this repo in a pre-configured environment by [clicking here](https://gitpod
 
 Read the API Documentation by [clicking here](https://chaintify.co/docs).
 
+Our code is documented with [JSDoc](https://jsdoc.app/), allowing us to add suggested typing to our application, delightful code editor autocompletion and explaining when you type a function.
+
+Just like this:
+
+![Code](https://i.ibb.co/YtKGR5V/image.png)
+
+
 ## Getting Started
 
 Add the environment variable described in the `.env.example` file.
